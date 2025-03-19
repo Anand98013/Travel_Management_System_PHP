@@ -36,19 +36,31 @@ Interactive UI with filtering and sorting options
 ![Admin Dashboar3](././Images/8.png)
 
 **✅Login Details for admin:**
+
 Username: admin
+
 Password: Test@123
 
-**✅Login Details for user: **
+**✅Login Details for user:**
+
 Username: test@gmail.com
+
 Password: Test@123
 
 Frontend: HTML, CSS, JavaScript, Bootstrap
+
 Backend: PHP, Laravel
+
 Database: MySQL
+
 Developer Tools: XAMPP, Git/GitHub, Postman
+
 Version Control: Git
+
 🔹 Impact & Achievements:
+
 🚀 Optimized the booking process, reducing manual efforts by 80%
+
 📈 Improved customer experience with seamless online transactions
+
 🔒 Ensured secure payment processing with encrypted transactions
