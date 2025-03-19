@@ -24,14 +24,14 @@ Interactive UI with filtering and sorting options
 🔹 Technologies Used:
 
 ✅ Project Screenshot::
-![Home Page](./Images/1.png)
-Booking Page1(./Images/2.png)
-Booking Page2(./Images/3.png)
-Package Details(./Images/4.png)
-Register Page(./Images/5.png)
-Admin Dashboard1(./Images/6.png)
-Admin Dashboard2(./Images/7.png)
-Admin Dashboar3(./Images/8.png)
+![Home Page](././Images/1.png)
+Booking Page1(,/./Images/2.png)
+Booking Page2(././Images/3.png)
+Package Details(././Images/4.png)
+Register Page(././Images/5.png)
+Admin Dashboard1(././Images/6.png)
+Admin Dashboard2(././Images/7.png)
+Admin Dashboar3(././Images/8.png)
 
 ✅Login Details for admin:
 Username: admin
