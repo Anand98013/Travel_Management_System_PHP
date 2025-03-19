@@ -1,29 +1,31 @@
-Project: Travel Management System
-🔹 Description:
-The Travel Management System is a web-based application designed to streamline travel bookings, manage customer data, and facilitate payments for seamless trip planning. It allows users to browse destinations, book trips, and make secure payments online while administrators can manage packages, reservations, and user feedback.
+# Project: Travel Management System
 
-🔹 Key Features:
-✅ User Module:
+## 🔹 Description:
+**The Travel Management System** is a web-based application designed to streamline **travel** **bookings**, **manage customer data**, and **facilitate payments for seamless trip planning**. It allows users to browse destinations, **book trips**, and **make secure payments online while administrators can manage packages**, **reservations**, and **user feedback**.
+
+## 🔹 Key Features:
+**✅ User Module:**
 
 User registration and login
 Browse travel packages (hotels, transport, tours)
 Online trip booking with real-time availability
 Payment gateway integration for secure transactions
 Booking history and invoice generation
-✅ Admin Module:
+**✅ Admin Module:**
 
 Add, update, and delete travel packages
 Manage user bookings and confirmations
 Generate reports for revenue analysis
 User feedback and review management
-✅ Other Functionalities:
+**✅ Other Functionalities:**
 
 Responsive design for desktop & mobile
 Secure authentication using JWT (if applicable)
 Interactive UI with filtering and sorting options
 🔹 Technologies Used:
 
-✅ Project Screenshot::
+## ✅ Project Screenshot:
+
 ![Home Page](././Images/1.png)
 ![Booking Page1](././Images/2.png)
 ![Booking Page2](././Images/3.png)
@@ -33,11 +35,11 @@ Interactive UI with filtering and sorting options
 ![Admin Dashboard2](././Images/7.png)
 ![Admin Dashboar3](././Images/8.png)
 
-✅Login Details for admin:
+**✅Login Details for admin:**
 Username: admin
 Password: Test@123
 
-✅Login Details for user: 
+**✅Login Details for user: **
 Username: test@gmail.com
 Password: Test@123
 
