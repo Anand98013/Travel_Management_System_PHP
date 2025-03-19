@@ -47,15 +47,15 @@ Username: test@gmail.com
 
 Password: Test@123
 
-Frontend: HTML, CSS, JavaScript, Bootstrap
+**Frontend**: HTML, CSS, JavaScript, Bootstrap
 
-Backend: PHP, Laravel
+**Backend**: PHP, Laravel
 
-Database: MySQL
+**Database**: MySQL
 
-Developer Tools: XAMPP, Git/GitHub, Postman
+**Developer Tools**: XAMPP, Git/GitHub, Postman
 
-Version Control: Git
+**Version Control**: Git
 
 🔹 Impact & Achievements:
 
